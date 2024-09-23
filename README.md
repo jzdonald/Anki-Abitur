@@ -10,7 +10,8 @@ Karteikarten fürs Abitur Biologie, Niederländisch und soo
 
 - Anki auf deutsch stellen
 
-- .csv Datei importieren und deutsches Wort als Vorderseite einrichten
+- .csv Datei von dieser Seite herunterladen und in Anki importieren
+- deutsches Wort als Vorderseite einrichten
 
 
 - ggf. die Abfragerate in der App noch anpassen:
