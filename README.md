@@ -16,6 +16,5 @@ Karteikarten fürs Abitur Biologie, Niederländisch und soo
 - ggf. die Abfragerate in der App noch anpassen:
 - auf Deck gedrückt halten  -> Stapeloptionen -> Tägliche Grenzwerte nach belieben anpassen
 
-- Fertig!
-
-- (alle Karteikarten sind frei erfunden, keine Garantie auf Richtigkeit!)
+Fertig!
+(alle Karteikarten sind frei erfunden, keine Garantie auf Richtigkeit!)
