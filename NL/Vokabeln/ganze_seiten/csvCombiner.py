@@ -4,13 +4,18 @@ import glob
 import re
 import pandas as pd
 
-
 def getIntFromString(s):
     return int(re.findall(r'\d+',s)[0])
 
 
 def appendFilesToOne(file_names, combined_file_name):
-    # Delete the combined file if it already exists
+    # Delete the combined file if it ( or an old one ) already exists
+    for f in glob.glob("seite_*_bis_*.csv"):
+        print("Deleting old file {}".format(f))
+        os.remove(f)
+
+
+
     file_names = [file for file in file_names if file != combined_file_name]
 
     print("Trying to append {} files from {} to {} into {}".format(len(file_names),
