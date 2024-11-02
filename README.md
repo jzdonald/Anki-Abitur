@@ -3,10 +3,10 @@ Karteikarten fürs Abitur Biologie, Niederländisch und soo
 
 
 # Anleitung
-**Anki herunterladen**: 
-1. Android -> AnkiDroid: https://play.google.com/store/apps/details?id=com.ichi2.anki&pcampaignid=web_share
-1. iPhone/iPad (IOS) -> https://apps.apple.com/de/app/ankimobile-flashcards/id373493387
-1. PC -> https://apps.ankiweb.net/
+1. **Anki herunterladen**: 
+  - Android -> AnkiDroid: https://play.google.com/store/apps/details?id=com.ichi2.anki&pcampaignid=web_share
+  - iPhone/iPad (IOS) -> https://apps.apple.com/de/app/ankimobile-flashcards/id373493387
+  - PC -> https://apps.ankiweb.net/
 
 2. Anki auf deutsch stellen
 
